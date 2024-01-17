@@ -1,2 +1,2 @@
-# CPP Programing and OOP
+# CPP Programing
 CPP Basic to Advanced 
